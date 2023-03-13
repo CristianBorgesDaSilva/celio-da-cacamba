@@ -1,5 +1,6 @@
 # Célio da Caçamba Construções (Landing Page - Responsiva)
 
+[![ NPM ](https://img.shields.io/npm/l/react)](https://github.com/CristianBorgesDaSilva/celio-da-cacamba/blob/main/LICENSE)
 # Sobre o projeto
 
 Esse projeto foi desenvolvido com o objetivo de praticar tudo que estudei até o momento, podendo ser classificado como HTML e CSS no nível intermediário.
